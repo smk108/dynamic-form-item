@@ -1,0 +1,28 @@
+.tag-component-add-box{
+  text-align: left;
+}
+.tag-component-add-btn{
+  color: #0058ff;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+.tag-component-add-btn-text{
+  vertical-align: middle;
+}
+.tag-component-icon{
+  vertical-align: middle;
+  padding: 0 6px;
+}
+.tag-component-remove-btn{
+  cursor: pointer;
+  position: relative;
+  transition: all .3s;
+  margin-left: 4px;
+}
+.tag-component-input-left{
+  width: 100%;
+}
+.tag-component-input-right{
+  width: calc(100% - 20px);
+}

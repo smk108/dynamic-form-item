@@ -1,0 +1,15 @@
+.app-content-header{
+  margin: 0 0 16px 0;
+  height: 32px;
+  line-height: 32px;
+}
+.app-content-btn{
+  right: 0;
+  display: inline-block;
+  vertical-align: middle;
+  float: right;
+}
+.op_icon{
+  font-size: 14px;
+  padding: 0 10px;
+}
